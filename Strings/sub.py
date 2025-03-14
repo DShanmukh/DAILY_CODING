@@ -1,5 +1,4 @@
 # n = input("Enter a string: ")
-
 # Function to check if all characters in a substring are unique
 # def all_unique(substring):
 #     return len(set(substring)) == len(substring)
